@@ -1,1 +1,1 @@
-This is a Online Recruitment Portal using ASP.NET Core MVC in which user can apply for the job postings and administrators can manage the jobs and view applications.
+This is a Online Taxi Management System using ASP.NET Core MVC that allows managers to add/remove and update available Taxis and manage bookings. It also allows users to book taxis according to their pickup and drop locations.
